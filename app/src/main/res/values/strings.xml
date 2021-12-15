@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KawaTest</string>
+
+    // Required
+    <string name="kawa_api_key">kawa__dyDCYLAjauTywvp3VD3Dg</string>
+
+    // Optional
+    <string name="smartlook_api_key">enter_smartlook_api_key</string>
+
+    // Optional
+    <string name="segment_api_key">enter_segment_api_key</string>
+</resources>
